@@ -18,6 +18,7 @@
 		4596499E25BE089800FF870F /* HeroTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4596499525BE089800FF870F /* HeroTableViewCell.swift */; };
 		45CFF02225BE1C6A003E9AE4 /* HeroDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45CFF02025BE1C6A003E9AE4 /* HeroDetailsViewController.swift */; };
 		45CFF02325BE1C6A003E9AE4 /* HerosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45CFF02125BE1C6A003E9AE4 /* HerosViewController.swift */; };
+		45CFF06D25C0B234003E9AE4 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 45CFF06C25C0B234003E9AE4 /* README.md */; };
 		B6753D7DD4313DF090CD2F3F /* Pods_DDAssignment.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FDC76B7F60E61B9A4E1D4975 /* Pods_DDAssignment.framework */; };
 /* End PBXBuildFile section */
 
@@ -35,6 +36,7 @@
 		4596499525BE089800FF870F /* HeroTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HeroTableViewCell.swift; sourceTree = "<group>"; };
 		45CFF02025BE1C6A003E9AE4 /* HeroDetailsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HeroDetailsViewController.swift; sourceTree = "<group>"; };
 		45CFF02125BE1C6A003E9AE4 /* HerosViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HerosViewController.swift; sourceTree = "<group>"; };
+		45CFF06C25C0B234003E9AE4 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		931225E340298AEB12DCC1AF /* Pods-DDAssignment.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DDAssignment.debug.xcconfig"; path = "Target Support Files/Pods-DDAssignment/Pods-DDAssignment.debug.xcconfig"; sourceTree = "<group>"; };
 		F3EF668BBB26E830E13BB051 /* Pods-DDAssignment.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DDAssignment.release.xcconfig"; path = "Target Support Files/Pods-DDAssignment/Pods-DDAssignment.release.xcconfig"; sourceTree = "<group>"; };
 		FDC76B7F60E61B9A4E1D4975 /* Pods_DDAssignment.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DDAssignment.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -73,6 +75,7 @@
 		4596496425BE06A000FF870F /* DDAssignment */ = {
 			isa = PBXGroup;
 			children = (
+				45CFF06C25C0B234003E9AE4 /* README.md */,
 				4596499125BE089800FF870F /* cells */,
 				4596499625BE089800FF870F /* vcs */,
 				4596496525BE06A000FF870F /* AppDelegate.swift */,
@@ -183,6 +186,7 @@
 			files = (
 				4596497225BE06A200FF870F /* LaunchScreen.storyboard in Resources */,
 				4596496F25BE06A200FF870F /* Assets.xcassets in Resources */,
+				45CFF06D25C0B234003E9AE4 /* README.md in Resources */,
 				4596496D25BE06A000FF870F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
