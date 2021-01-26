@@ -1,0 +1,27 @@
+{
+  "name": "DDLibrary",
+  "version": "0.0.1",
+  "summary": "This is my custom pod",
+  "description": "This is a cool description for custom pod",
+  "homepage": "http://DDLibrary.com",
+  "license": "MIT",
+  "authors": {
+    "Snir Ganon": "snir@lightstrap.com"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "http://DDLibrary.com/DDLibrary.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "DDLibrary/Source/network/*.swift",
+    "DDLibrary/Source/models/*.swift"
+  ],
+  "dependencies": {
+    "Alamofire": [
+
+    ]
+  }
+}
