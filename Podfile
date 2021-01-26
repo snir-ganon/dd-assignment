@@ -6,6 +6,6 @@ target 'DDAssignment' do
   use_frameworks!
 
   # Pods for DDAssignment
-  pod 'DDLibrary', :path => '../DDLibrary'
+  pod 'DDLibrary', :path => '../dd-library'
   pod 'AlamofireImage'
 end
